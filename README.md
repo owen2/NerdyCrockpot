@@ -1,4 +1,4 @@
 NerdyCrockpot
 =============
 
-Crockpot Recipie Collection Started by Developers at Pioneer
+Crockpot Recipe Collection Started by Developers at Pioneer
