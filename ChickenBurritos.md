@@ -4,11 +4,11 @@ Chicken Burritos
 ### What you'll need
 
 - **6** frozen chicken breasts
-- **1** jar salsa
+- **1 jar** salsa
  - I find the crockpot-ing process mellows out a lot of the salsa's spice, so I typically buy hot salsa
-- **1** can corn, drained
-- **1** can black beans, drained and rinsed
-- **1** (8 oz.) cream cheese
+- **1 can** corn, drained
+- **1 can** black beans, drained and rinsed
+- **1 (8 oz.)** plain cream cheese
 
 ### What you'll do
 

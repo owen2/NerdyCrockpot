@@ -6,7 +6,7 @@ BBQ Cranberry Chicken
 - **2 lbs** boneless chicken breasts
 - **1/4 cup** dried minced onion
  - You'll find this by the spices, most likely in the baking aisle
-- **1** (16 oz.) can whole cranberry sauce 
+- **1 (16 oz.) can** whole cranberry sauce 
  - note: not *jellied* cranberry sauce
  - although jellied will work fine too, if you're in a pinch
 - **1 cup** BBQ sauce
