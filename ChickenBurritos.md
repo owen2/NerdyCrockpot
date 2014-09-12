@@ -18,4 +18,4 @@ Chicken Burritos
 ### Other stuff
 
  - Serve on warm tortillas
- - Enjoy the biggest `preparation time` / `enjoyment` ratio you will ever experience!
+ - Enjoy the biggest `enjoyment` / `preparation time` ratio you will ever experience!
