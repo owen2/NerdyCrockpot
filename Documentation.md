@@ -11,7 +11,8 @@
 	1. Open a pull request
 1. Follow recipe steps.
 1. Consume the food resulted from step 2.
-	- If the recipe did not result in food, please try again, but harder before opening any issues.
+	- If the recipe did not result in food, please try harder.
+		- If trying harder did not result in food, open an issue.
 1. Release any waste resulting from step 3 as necessary into the appropriate waste removal system.
 	- Follow any procedures associated with the waste removal system.
 	- Removal of waste once released is not "in scope" for this project.
