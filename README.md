@@ -11,3 +11,4 @@ If you are starving and need to eat immediately, please consult your local dinin
 
 1. [Chicken Burritos](ChickenBurritos.md)
 2. [BBQ Cranberry Chicken](BbqCranberryChicken.md)
+3. [Hot Cider Punch](HotCiderPunch.md)
