@@ -25,7 +25,7 @@
 	- If your crockpot is not working, try the following:
 		- Turn it off and on again
 		- Make sure it is plugged in
-	- If you do not have a crockpot or your crockpot is non-functional, you can acquire one using ![Alt text](https://ir-na.amazon-adsystem.com/e/ir?t=collimbealab-20&l=ur2&o=1)[this url](http://www.amazon.com/gp/search/?ie=UTF8&camp=1789&creative=390957&linkCode=ur2&qid=1410739936&rh=n%3A1055398%2Cn%3A284507%2Cn%3A289913%2Cn%3A289940&tag=collimbealab-20&linkId=2VTLPM2FR544GX6Y).
+	- If you do not have a crockpot or your crockpot is non-functional, you can acquire a ![mystery image](https://ir-na.amazon-adsystem.com/e/ir?t=collimbealab-20&l=ur2&o=1)[new slow cooker](http://www.amazon.com/gp/search/?ie=UTF8&camp=1789&creative=390957&linkCode=ur2&qid=1410739936&rh=n%3A1055398%2Cn%3A284507%2Cn%3A289913%2Cn%3A289940&tag=collimbealab-20&linkId=2VTLPM2FR544GX6Y).
 - Under some circumstances, some slow cookers may not be compatible with this software. If this is the case, you may have to install different firmware on your slowcooker. We recommend you seek help from your significant other or mother to upgrade your slow cooker's firmware.
 
 ## Release Plan
