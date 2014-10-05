@@ -11,7 +11,7 @@ Southwestern Chicken Chili
 - **1 package** ranch seasoning
 - **1 package** taco seasoning
 - Any toppings you'd like 
- - i.e, cheese, sour cream, tortilla strips, etc.
+ - i.e, shredded cheese, sour cream, tortilla strips, etc.
 
 ### Deployment
 
