@@ -30,4 +30,4 @@ White Chicken Chili
 
 ### Sidenotes
 
-- Original Recipe found [here](http://www.slowcookeradventures.com/2010/04/white-chicken-chili.html)
+- Original Recipe found [here](http://www.slowcookeradventures.com/2010/04/white-chicken-chili.html).
