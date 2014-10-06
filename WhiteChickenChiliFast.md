@@ -14,10 +14,10 @@ White Chicken Chili (In A Hurry Version)
 ### Gotta do it
 
 1. Put everything into the slow cooker.
-1. Cook until the cheese is melted and chili is heated throughout (low = ~4 hours, high = ~2 hours)
+1. Cook until the cheese is melted and chili is heated throughout (low = ~4 hours, high = ~2 hours).
 1. Stir and serve with tortilla chips on the top or the side.
 1. Enjoy!
 
 ### Sidenotes
 
-- Original Recipe found [here](http://www.slowcookeradventures.com/2010/04/white-chicken-chili.html)
+- Original Recipe found [here](http://www.slowcookeradventures.com/2010/04/white-chicken-chili.html).
