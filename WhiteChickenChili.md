@@ -18,7 +18,7 @@ White Chicken Chili
 ### Gotta do it
 
 1. Soak navy beans in a large bowl or pot overnight. Cover them with around 4 inches of water.
-1. In the morning, drain and rinse your beans
+1. In the morning, drain and rinse your beans.
 1. Pour the beans and the 4 cups of water into slow cooker.
 1. Add chicken broth, salsa, onions, cumin, salt and pepper to the cooker.
 1. Cook on low for 6-8 hours.
@@ -27,3 +27,7 @@ White Chicken Chili
 1. Turn the cooker onto high for 1 hour.
 1. Stir and serve with tortilla chips on the top or the side.
 1. Enjoy!
+
+### Sidenotes
+
+- Original Recipe found [here](http://www.slowcookeradventures.com/2010/04/white-chicken-chili.html)
