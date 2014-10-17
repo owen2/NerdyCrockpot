@@ -18,12 +18,11 @@ A pot roast in which the beef is tenderized by acids in a cola beverage and swee
 ## Setup
 
 1. Cut up the onions and potatoes
-1. Install the roast in the CrockPot Unit (CPU)
+1. Install the roast and potatoes in the CrockPot Unit (CPU)
 1. Top off the CPU with the cola beverage
 1. Add some table salt and pepper
-1. Cook on low for 4 hours
-  1. Overnight would be good.
-1. Install the plant materials to the CPU
+1. Cook on low for 4ish hours
+1. Install the remaining plant materials to the CPU
   1. and whatever other stuff you want
 1. Run the CPU on low for at least 4 more hours
   1. You can overclock your CPU to high shorter wait times, but the meat may be tougher if you do this.
