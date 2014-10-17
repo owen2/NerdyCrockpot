@@ -8,6 +8,7 @@
 4. [Southwestern Chicken Chili](SouthwesternChickenChili.md)
 5. [White Chicken Chili](WhiteChickenChili.md)
 5. [White Chicken Chili (Fast)](WhiteChickenChiliFast.md)
+6. [Coke Roast](CokeRoast.md)
 
 
 ## Documentation
