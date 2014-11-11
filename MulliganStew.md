@@ -21,7 +21,7 @@ Mulligan Stew
 ### Gotta do it
 
 1. Put everything into the slow cooker. Add Chicken Broth and enough water to cover
-1. Cook on loq 5+ hours or until done.
+1. Cook on low 5+ hours or until done.
 1. Enjoy!
 
 ### Sidenotes
