@@ -9,8 +9,8 @@
 5. [White Chicken Chili](WhiteChickenChili.md)
 5. [White Chicken Chili (Fast)](WhiteChickenChiliFast.md)
 6. [Coke Roast](CokeRoast.md)
-7. [Mulligan Stew] (MulliganStew.md)
-8. [Spanish Paella Rice] (PaellaRice.md)
+7. [Mulligan Stew](MulliganStew.md)
+8. [Spanish Paella Rice](PaellaRice.md)
 
 ## Documentation
 If you are having trouble deploying this project, are concerned about its life cycle, or are having difficulty feeding yourself and have become irritable, please consult [the documentation](Documentation.md). 
